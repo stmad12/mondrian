@@ -1,0 +1,99 @@
+@charset "UTF-8";
+/* CSS Document */
+body, html {
+	background-color:#f6f6f6;
+}
+#painting {
+	background-color: #fff4db;
+	height: 400px;
+	width: 400px;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	box-shadow: 10px 10px 0 #8d8d8d;
+}
+#toprow {
+	height: 290px;
+}
+  #bigbox {
+	height: 290px;
+	width: 290px;
+}
+.red {
+	background-color:red;
+}
+.blue{
+	background-color:blue;
+}
+.yellow{
+	background-color:yellow;
+}
+.black{
+	background-color:black;
+}
+
+.right{
+	float:right;
+}#divider1 {
+	height: 290px;
+	width: 10px;
+}
+#topleftcolumn {
+}
+
+.mediumbox {
+	height: 140px;
+	width: 100px;
+}
+#divider2 {
+	height: 10px;
+	width: 100px;
+}
+#middledivider {
+	height: 10px;
+	width: 400px;
+}
+#toprow{
+	height:290px;
+}
+#yellowbox {
+	height:45px;
+	width:20px;
+}
+#bottom {
+	height: 100px;
+	width: 400px;
+}
+#emptybox{
+	height:45px;
+	width:20px;
+}
+
+#divider3 {
+	height: 10px;
+	width: 20px;
+}
+#bottom1 {
+	height: 100px;
+	width: 20px;
+}
+#bottom2 {
+	height: 100px;
+	width: 10px;
+}
+#divider4 {
+	height: 100px;
+	width: 10px;
+}
+#bottom3 {
+	height: 100px;
+	width: 260px;
+}
+#bottom4 {
+	height: 100px;
+	width: 10px;
+}
+#bottom5 {
+	height: 100px;
+	width: 100px;
+}
